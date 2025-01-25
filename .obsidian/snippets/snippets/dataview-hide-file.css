@@ -1,0 +1,4 @@
+.hide-file-column table.dataview th:first-child,
+.hide-file-column table.dataview td:first-child {
+    display: none;
+}
