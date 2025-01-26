@@ -7,4 +7,4 @@ This project is **dual-licensed**:
 - **Creative Commons Attribution 4.0 (CC BY 4.0)**: Covers **original lore, worldbuilding, obsidian templates, and homebrew content**.
 - **Open Game License (OGL 1.0a)**: Covers **mechanics and rules based on D&D 5e SRD**.
 
-See [`LICENSE`](LICENSE) for details.
+See [`LICENSE`](LICENSE.md) for details.
